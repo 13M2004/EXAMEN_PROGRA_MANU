@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_Progra_Manuel", "Examen_Progra_Manuel\Examen_Progra_Manuel.csproj", "{59973066-FEEB-460C-8162-548F48B01937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data_Access", "Data_Access", "{19448C26-609B-4410-8886-38EA72F9B23F}"
+	ProjectSection(SolutionItems) = preProject
+		Mundial.cs = Mundial.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59973066-FEEB-460C-8162-548F48B01937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59973066-FEEB-460C-8162-548F48B01937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59973066-FEEB-460C-8162-548F48B01937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59973066-FEEB-460C-8162-548F48B01937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF95396-5F49-466A-9DB9-CADB3515FACA}
+	EndGlobalSection
+EndGlobal
